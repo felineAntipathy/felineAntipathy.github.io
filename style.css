@@ -4,3 +4,8 @@
   font-style: normal;
 }
 
+.banner 
+{
+  background-img('https://i.ibb.co/23Bw44Fy/bowbanner.png');
+  background-repeat: repeat-x;
+}
